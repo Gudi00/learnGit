@@ -11,7 +11,7 @@ for i in range(T):
     min_values = [0] * n
 
     for o in range(100):
-        min_values = [0] * n
+        min_values = [0] * n#FFDGDFGDFG
 
         for j in range(n):
             for z in range(n):
