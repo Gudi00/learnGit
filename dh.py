@@ -6,7 +6,7 @@ for i in range(T):
     n = int(input())
     h = list(map(int, input().split()))
     a = list(map(int, input().split()))
-    t = list(map(int, input().split()))
+    t = list(map(int, input().split()))#ksjdfkjasdfhlkas
 
     min_values = [0] * n
 
