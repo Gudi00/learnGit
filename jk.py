@@ -47,7 +47,7 @@ for b in range(i, n-1):
    if a[b+1] - a[b] >= k and c[b+1]>0:
 
 
-        c[b+1] -= 1
+        c[b+1] -= 1j#gikjkjljl
         ch+=1
 
 print(ch)
